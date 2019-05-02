@@ -1,0 +1,9 @@
+workers:
+    - http://localhost:5001
+    - http://localhost:5002
+    - http://localhost:5003
+    - http://localhost:5004
+database: db/
+worker_logs: logs/
+worker_persist: 5
+config_check: 5

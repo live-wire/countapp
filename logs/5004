@@ -1,0 +1,10 @@
+💻 [5004]: Worker up on : 5004
+💻 [5004]: POST /items
+💻 [5004]: Processing {2 t3}
+💻 [5004]: Processing {2 t2}
+💻 [5004]: Processing {1 t1}
+💻 [5004]: Processing {4 t1}
+💻 [5004]: db/t3 &map[2:true]
+💻 [5004]: db/t1 &map[1:true 4:true]
+💻 [5004]: db/t2 &map[2:true]
+💻 [5004]: GET /items/t1/count
